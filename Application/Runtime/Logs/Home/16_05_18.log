@@ -1,0 +1,1183 @@
+[ 2016-05-18T14:44:01+08:00 ] 127.0.0.1 /0/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006868s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001537s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 7 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 7 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 7 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.155927s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.156006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003925s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003986s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004324s ]
+
+[ 2016-05-18T14:51:58+08:00 ] 127.0.0.1 /0/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011442s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011516s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000827s ]
+
+[ 2016-05-18T14:53:32+08:00 ] 127.0.0.1 /0/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012481s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012657s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000678s ]
+
+[ 2016-05-18T14:54:11+08:00 ] 127.0.0.1 /0/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012383s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012458s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000550s ]
+
+[ 2016-05-18T14:55:59+08:00 ] 127.0.0.1 /0/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000550s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010355s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010450s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000581s ]
+
+[ 2016-05-18T14:59:17+08:00 ] 127.0.0.1 /0/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006061s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006114s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000484s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000570s ]
+
+[ 2016-05-18T15:16:55+08:00 ] 127.0.0.1 /0/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant Music - assumed 'Music' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant Book - assumed 'Book' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant Movie - assumed 'Movie' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant Column - assumed 'Column' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052605s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-05-18T15:16:58+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant Music - assumed 'Music' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant Book - assumed 'Book' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant Movie - assumed 'Movie' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant Column - assumed 'Column' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007237s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007292s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2016-05-18T15:16:59+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant Music - assumed 'Music' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant Book - assumed 'Book' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant Movie - assumed 'Movie' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant Column - assumed 'Column' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008249s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008321s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000731s ]
+
+[ 2016-05-18T15:17:00+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant Music - assumed 'Music' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant Book - assumed 'Book' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant Movie - assumed 'Movie' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant Column - assumed 'Column' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006363s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006416s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000532s ]
+
+[ 2016-05-18T15:17:01+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant Music - assumed 'Music' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant Book - assumed 'Book' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant Movie - assumed 'Movie' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant Column - assumed 'Column' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007808s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007867s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-05-18T15:17:50+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant Music - assumed 'Music' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant Book - assumed 'Book' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant Movie - assumed 'Movie' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant Column - assumed 'Column' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006573s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006620s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2016-05-18T15:18:08+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant Music - assumed 'Music' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant Book - assumed 'Book' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant Movie - assumed 'Movie' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant Column - assumed 'Column' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006346s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006397s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-05-18T15:18:09+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000547s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant Music - assumed 'Music' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant Book - assumed 'Book' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant Movie - assumed 'Movie' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant Column - assumed 'Column' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007335s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007402s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-05-18T15:18:10+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant Music - assumed 'Music' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant Book - assumed 'Book' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant Movie - assumed 'Movie' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant Column - assumed 'Column' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007190s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007265s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000490s ]
+
+[ 2016-05-18T15:18:55+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant Music - assumed 'Music' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant Book - assumed 'Book' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant Movie - assumed 'Movie' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant Column - assumed 'Column' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012559s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-05-18T15:20:00+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000554s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant Music - assumed 'Music' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant Book - assumed 'Book' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant Movie - assumed 'Movie' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant Column - assumed 'Column' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012146s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012197s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000516s ]
+
+[ 2016-05-18T15:21:22+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Use of undefined constant Music - assumed 'Music' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Use of undefined constant Book - assumed 'Book' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Use of undefined constant Movie - assumed 'Movie' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 22 行.
+NOTIC: [8] Use of undefined constant Column - assumed 'Column' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+NOTIC: [2] Division by zero D:\WWW\0\1\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006176s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006224s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000521s ]
+
+[ 2016-05-18T15:23:05+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013806s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013871s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000524s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000565s ]
+
+[ 2016-05-18T15:23:10+08:00 ] 127.0.0.1 /0/1/index.php/Home/Music/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012828s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012899s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000511s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000573s ]
+
+[ 2016-05-18T15:23:11+08:00 ] 127.0.0.1 /0/1/index.php/Home/Book/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011174s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000493s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000535s ]
+
+[ 2016-05-18T15:23:12+08:00 ] 127.0.0.1 /0/1/index.php/Home/Movie/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012325s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012386s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000503s ]
+
+[ 2016-05-18T15:23:13+08:00 ] 127.0.0.1 /0/1/index.php/Home/Column/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012166s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012227s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-05-18T15:23:14+08:00 ] 127.0.0.1 /0/1/index.php/Home/Column/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006138s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000595s ]
+
+[ 2016-05-18T15:23:15+08:00 ] 127.0.0.1 /0/1/index.php/Home/Movie/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006374s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006437s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2016-05-18T15:23:16+08:00 ] 127.0.0.1 /0/1/index.php/Home/Book/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006268s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006322s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000550s ]
+
+[ 2016-05-18T15:23:17+08:00 ] 127.0.0.1 /0/1/index.php/Home/Music/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005894s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005949s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000533s ]
+
+[ 2016-05-18T15:23:18+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012135s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012189s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2016-05-18T15:36:47+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006757s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006820s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000767s ]
+
+[ 2016-05-18T15:36:48+08:00 ] 127.0.0.1 /0/1/index.php/Home/Music/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006389s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006457s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000511s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2016-05-18T15:36:50+08:00 ] 127.0.0.1 /0/1/index.php/Home/Book/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007270s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007334s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000476s ]
+
+[ 2016-05-18T15:36:51+08:00 ] 127.0.0.1 /0/1/index.php/Home/Movie/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006219s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006314s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000213s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2016-05-18T15:44:52+08:00 ] 127.0.0.1 /0/1/index.php/Home/Movie/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006393s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006441s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000526s ]
+
+[ 2016-05-18T15:45:01+08:00 ] 127.0.0.1 /0/1/index.php/Home/Music/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005933s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-05-18T15:45:03+08:00 ] 127.0.0.1 /0/1/index.php/Home/Book/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006530s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2016-05-18T15:45:04+08:00 ] 127.0.0.1 /0/1/index.php/Home/Movie/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006287s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006359s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000517s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2016-05-18T15:45:06+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006466s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006531s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000578s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000636s ]
+
+[ 2016-05-18T15:45:22+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014241s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014303s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-05-18T19:45:58+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005081s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.108498s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.108564s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003525s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003790s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003844s ]
+
+[ 2016-05-18T19:48:29+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000249s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015961s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016021s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000567s ]
+
+[ 2016-05-18T19:52:37+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013442s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013514s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000560s ]
+
+[ 2016-05-18T19:57:02+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046277s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046347s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000704s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000807s ]
+
+[ 2016-05-18T19:58:25+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015257s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015325s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000609s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000846s ]
+
+[ 2016-05-18T20:01:40+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017968s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018074s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001392s ]
+
+[ 2016-05-18T20:05:26+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049069s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049135s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000689s ]
+
+[ 2016-05-18T20:09:49+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014081s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014193s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000679s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000746s ]
+
+[ 2016-05-18T20:09:57+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013187s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013255s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000702s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000769s ]
+
+[ 2016-05-18T20:10:25+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000202s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013741s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013813s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000670s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000753s ]
+
+[ 2016-05-18T20:10:53+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015705s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015779s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000751s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000839s ]
+
+[ 2016-05-18T20:10:57+08:00 ] 127.0.0.1 /0/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017150s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017227s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000597s ]
+

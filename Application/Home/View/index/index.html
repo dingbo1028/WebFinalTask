@@ -1,0 +1,345 @@
+<extend name="simple/base"/>
+
+<block name="body">
+
+    <div class="fullwidthbanner-container">
+        <div class="fullwidthbanner">
+            <ul>
+
+
+                <li data-transition="fade" data-slotamount="15" data-masterspeed="300">
+                    <img src="__PUBLIC__/Home/images/slides/index_3.jpg" alt="" />
+                </li>
+
+                <!-- THE FIRST SLIDE -->
+                <li data-transition="slidedown" data-slotamount="15" data-masterspeed="300">
+                    <img src="__PUBLIC__/Home/images/slides/index_5.jpg" alt="" />
+
+                    <div class="caption box-slide1 lfl ltl"
+                         data-x="0"
+                         data-y="150"
+                         data-speed="300"
+                         data-start="1000"
+                         data-easing="easeOutExpo">
+                        <h2>HEY THERE!<br/>我的大作业终于做完啦！</h2>
+                        <p>哈哈WEB大作业真的不好做呢，但是终于做完啦哈哈哈哈哈，很艰难啊！</p>
+                    </div>
+                </li>
+
+
+
+
+
+
+                <!-- THE SECOND SLIDE -->
+                <li data-transition="fade" data-slotamount="15" data-masterspeed="300">
+                    <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
+                    <img src="__PUBLIC__/Home/images/slides/index_2.jpg" alt="" />
+
+                    <!-- THE CAPTIONS IN THIS SLDIE -->
+                    <div class="caption box-slide2 lft ltt"
+                         data-x="770"
+                         data-y="110"
+                         data-speed="300"
+                         data-start="500"
+                         data-easing="easeOutExpo">
+                        <h2>源码公开哦</h2>
+                        <p>这次的大作业花费了我很大的心血，但是本着互相学习的态度，我将我的源码放在了GitHub上供大家免费下载和学习</p>
+                        <a class="button red" href="https://github.com/dingbo1028/WebFinalTask" target="_blank">点这里去 GitHub</a>
+                    </div>
+                </li>
+
+                <!-- THE THIRD SLIDE -->
+                <li data-transition="papercut" data-slotamount="15" data-masterspeed="300" data-link="{:U('Share/detail')}">
+                    <img src="__PUBLIC__/Home/images/slides/index_1.jpg" alt="" />
+                </li>
+
+
+
+
+
+                <!-- THE FIFTH SLIDE -->
+                <li data-transition="slideright" data-slotamount="15" data-masterspeed="300">
+                    <img src="__PUBLIC__/Home/images/slides/index_4.jpg" alt="" />
+
+                    <div class="caption title_text lfl stl"
+                         data-x="80"
+                         data-y="250"
+                         data-speed="300"
+                         data-start="1000"
+                         data-easing="easeOutExpo">生活不易</div>
+
+                    <div class="caption description_text lfl stl"
+                         data-x="80"
+                         data-y="292"
+                         data-speed="300"
+                         data-start="1300"
+                         data-easing="easeOutExpo">且装逼且珍惜！</div>
+                </li>
+
+
+
+
+
+                <!-- THE SIX SLIDE -->
+
+
+
+
+            </ul>
+            <!--enable slider timer
+                <div class="tp-bannertimer"></div>
+            -->
+        </div>
+        <div class="bottom-shadow" style="display: block;"></div>
+    </div><!--end slider-->
+
+
+    <div class="centered-wrapper">
+
+        <section class="intro">
+            <h2>让更多的人发现生活从而热爱生活</h2>
+            <h5>我们致力于让每个人都找到适合自己的生活方式，<a href="#">点这里从分享你的生活开始</a></h5>
+        </section>
+
+
+        <section class="homeblock">
+                <div class="half-space"></div>
+                <h1 class="onepage-title">热门文章</h1>
+            <ul id="portfolio-carousel">
+                <li>
+                    <a href="__PUBLIC__/Home/images/index/1.jpg" rel="prettyPhoto[pp_gal]" title="黑夜里发光的人">
+                        <span class="item-on-hover"><span class="hover-image"></span></span>
+                        <img src="__PUBLIC__/Home/images/index/1.jpg" alt=" " />
+                    </a>
+                    <div class="portfolio-carousel-details">
+                        <h3><a href="{:U('Share/detail')}">黑夜里发光的人</a></h3>
+                        <span>黑夜里黑夜里发光发光啊的人人人哈哈</span>
+                    </div>
+                </li>
+
+                <li>
+                    <a href="__PUBLIC__/Home/images/index/2.jpg" rel="prettyPhoto[pp_gal]" title="日本富士音乐节巡礼">
+                        <span class="item-on-hover"><span class="hover-image"></span></span>
+                        <img src="__PUBLIC__/Home/images/index/2.jpg" alt=" " />
+                    </a>
+                    <div class="portfolio-carousel-details">
+                        <h3><a href="{:U('Share/detail')}">日本富士音乐节巡礼</a></h3>
+                        <span>日本富士音乐节哈哈</span>
+                    </div>
+                </li>
+
+                <li>
+                    <a href="__PUBLIC__/Home/images/index/3.jpg" rel="prettyPhoto[pp_gal]" title="提琴后摇的五重色彩">
+                        <span class="item-on-hover"><span class="hover-image"></span></span>
+                        <img src="__PUBLIC__/Home/images/index/3.jpg" alt=" " />
+                    </a>
+                    <div class="portfolio-carousel-details">
+                        <h3><a href="{:U('Share/detail')}">提琴后摇的五重色彩</a></h3>
+                        <span>好困啊啊啊啊</span>
+                    </div>
+                </li>
+
+                <li>
+                    <a href="__PUBLIC__/Home/images/index/4.jpg" rel="prettyPhoto[pp_gal]" title="Hello Nico：在歌声里起舞">
+                        <span class="item-on-hover"><span class="hover-image"></span></span>
+                        <img src="__PUBLIC__/Home/images/index/4.jpg" alt=" " />
+                    </a>
+                    <div class="portfolio-carousel-details">
+                        <h3><a href="{:U('Share/detail')}">Hello Nico：在歌声里起舞</a></h3>
+                        <span>在歌声里起舞飞呀飞呀飞走了</span>
+                    </div>
+                </li>
+
+                <li>
+                    <a href="__PUBLIC__/Home/images/index/5.jpg" rel="prettyPhoto[pp_gal]" title="​幻视幻听的靡靡之音">
+                        <span class="item-on-hover"><span class="hover-image"></span></span>
+                        <img src="__PUBLIC__/Home/images/index/5.jpg" alt=" " />
+                    </a>
+                    <div class="portfolio-carousel-details">
+                        <h3><a href="{:U('Share/detail')}">​幻视幻听的靡靡之音</a></h3>
+                        <span>没有守望玩我要死了</span>
+                    </div>
+                </li>
+
+                <li>
+                    <a href="__PUBLIC__/Home/images/index/6.jpg" rel="prettyPhoto[pp_gal]" title="关于“爱情”，阿肆有话要说">
+                        <span class="item-on-hover"><span class="hover-image"></span></span>
+                        <img src="__PUBLIC__/Home/images/index/6.jpg" alt=" " />
+                    </a>
+                    <div class="portfolio-carousel-details">
+                        <h3><a href="{:U('Share/detail')}">关于“爱情”，阿肆有话要说</a></h3>
+                        <span>真是在IMBA了</span>
+                    </div>
+                </li>
+            </ul>
+        </section>
+        <div class="space"></div>
+        <section class="homeblock">
+            <div class="half-space"></div>
+            <h1 class="onepage-title">牛逼闪闪</h1>
+            <section class="homepage-grid">
+                <div class="bgtitle"><h2>选择分类</h2></div>
+                <section id="options">
+                    <ul id="home-filters" class="option-set clearfix" data-option-key="filter">
+                        <li><a href="#filter" data-option-value="*" class="selected active">All</a></li>
+                        <li><a href="#filter" data-option-value=".marketing">逼格</a></li>
+                        <li><a href="#filter" data-option-value=".photography">创意</a></li>
+                        <li><a href="#filter" data-option-value=".branding">装逼必备</a></li>
+                        <li><a href="#filter" data-option-value=".print">6666666</a></li>
+                        <li><a href="#filter" data-option-value=".webdesign">技能</a></li>
+                    </ul>
+                </section>
+
+                <section id="portfolio-wrapper">
+                    <ul class="portfolio grid ">
+                        <li data-category="marketing" class="print photography item-wide">
+                            <a href="http://vimeo.com/7449107" rel="prettyPhoto">
+                                <div class="grid-item-on-hover">
+                                    <div class="grid-text">
+                                        <h1>Lorem Ipsum Dolor Sit Amet Consectetur</h1>
+                                    </div>
+                                    <span>photography, printing identity</span>
+
+                                </div>
+                                <img src="__PUBLIC__/Home/images/portfolio/image5-small.jpg" alt=" " />
+                            </a>
+                        </li>
+                        <li data-category="branding" class="branding print item-small">
+                            <a href="__PUBLIC__/Home/images/portfolio/image1.jpg" rel="prettyPhoto">
+                                <div class="grid-item-on-hover">
+                                    <div class="grid-text">
+                                        <h1>Cervejaria Republica Project</h1>
+                                    </div>
+                                    <span>printing identity, branding</span>
+                                </div>
+                                <img src="__PUBLIC__/Home/images/portfolio/image1-small.jpg" alt=" " />
+                            </a>
+                        </li>
+                        <li data-category="marketing" class="marketing webdesign item-high">
+                            <a href="__PUBLIC__/Home/images/portfolio/image3.jpg" rel="prettyPhoto">
+                                <div class="grid-item-on-hover">
+                                    <div class="grid-text">
+                                        <h1>Lorem Ipsum Dolor Sit Amet</h1>
+                                    </div>
+                                    <span>business cards</span>
+                                </div>
+                                <img src="__PUBLIC__/Home/images/portfolio/image3-small-high.jpg" alt=" " />
+                            </a>
+                        </li>
+                        <li data-category="media" class="marketing branding item-small">
+                            <a href="__PUBLIC__/Home/images/portfolio/image8.jpg" rel="prettyPhoto">
+                                <div class="grid-item-on-hover">
+                                    <div class="grid-text">
+                                        <h1>Adidas Store</h1>
+                                    </div>
+                                    <span>retail, marketing</span>
+                                </div>
+                                <img src="__PUBLIC__/Home/images/portfolio/image8-small.jpg" alt=" " />
+                            </a>
+                        </li>
+                        <li data-category="retail" class="webdesign marketing print item-small">
+                            <a href="{:U('Share/detail')}">
+                                <div class="grid-item-on-hover">
+                                    <div class="grid-text">
+                                        <h1>Website Redesign</h1>
+                                    </div>
+                                    <span>web design</span>
+                                </div>
+                                <img src="__PUBLIC__/Home/images/portfolio/image2-small.jpg" alt=" " />
+                            </a>
+                        </li>
+                        <li data-category="retail" class="photography item-small">
+                            <a href="__PUBLIC__/Home/images/portfolio/image6.jpg" rel="prettyPhoto">
+                                <div class="grid-item-on-hover">
+                                    <div class="grid-text">
+                                        <h1>Grayscale Shooting Session </h1>
+                                    </div>
+                                    <span>photography</span>
+                                </div>
+                                <img src="__PUBLIC__/Home/images/portfolio/image6-small.jpg" alt=" " />
+                            </a>
+                        </li>
+                        <li data-category="marketing" class="marketing print branding item-long">
+                            <a href="__PUBLIC__/Home/images/portfolio/image7.jpg" rel="prettyPhoto">
+                                <div class="grid-item-on-hover">
+                                    <div class="grid-text">
+                                        <h1>Carlito`s Bar </h1>
+                                    </div>
+                                    <span>branding, business cards</span>
+                                </div>
+                                <img src="__PUBLIC__/Home/images/portfolio/image7-small-long.jpg" alt=" " />
+                            </a>
+                        </li>
+                    </ul>
+                </section>
+            </section><!--end home-grid-->
+        </section>
+        <div class="space"></div>
+        <section class="homeblock">
+            <div class="half-space"></div>
+            <h1 class="onepage-title">热门分享</h1>
+            <ul id="homeblog-carousel">
+                <li>
+                    <a href="{:U('Share/detail')}">
+                        <span class="item-on-hover"></span>
+                        <img src="__PUBLIC__/Home/images/share/1.jpg" alt="LOREM IPSUM DOLOR SIT AMET" />
+                    </a>
+                    <div class="blog-carousel-details">
+                        <h2><a href="{:U('Share/detail')}">编这些乱七八糟的东西真是好费脑细胞呢</a></h2>
+                        <div class="carousel-meta">
+                            <span class="post-format"><i class="icon-pencil"></i></span><span class="details">May 18, 2016 / <a href="#">3 评论</a></span>
+                        </div>
+                        <p>关于我的属于你的一切，我会慢慢忘记，就像从来没有发生过，化成泡沫，消失在湛蓝的天空;关于你的属于我的一切，我会慢慢藏匿，就像是过往的曾经笑容，化成种子，扎根在柔软的心底。</p>
+                    </div>
+                </li>
+
+                <li>
+                    <a href="{:U('Share/detail')}">
+                        <span class="item-on-hover"></span>
+                        <img src="__PUBLIC__/Home/images/share/2.jpg" alt="LOREM IPSUM DOLOR SIT AMET" />
+                    </a>
+                    <div class="blog-carousel-details">
+                        <h2><a href="{:U('Share/detail')}">【尼泊尔】探寻内心深处的那个禅亚塔</a></h2>
+                        <div class="carousel-meta">
+                            <span class="post-format"><i class="icon-pencil"></i></span><span class="details">December 07, 2015 / <a href="#">4 评论</a></span>
+                        </div>
+                        <p>曾近一度幻想拥有翅膀，就可以肆意离开家，就可以飞到繁星之中，找到最耀眼的那颗。 </p>
+                    </div>
+                </li>
+                <li>
+                    <a href="{:U('Share/detail')}">
+                        <span class="item-on-hover"></span>
+                        <img src="__PUBLIC__/Home/images/share/3.jpg" alt="LOREM IPSUM DOLOR SIT AMET" />
+                    </a>
+                    <div class="blog-carousel-details">
+                        <h2><a href="{:U('Share/detail')}">【直布罗陀】我们都是温斯顿</a></h2>
+                        <div class="carousel-meta">
+                            <span class="post-format"><i class="icon-facetime-video"></i></span><span class="details">May 18, 2016 / <a href="#">3 评论</a></span>
+                        </div>
+                        <p>你曾经告诉过我，谁都有一双不会飞的有意义的翅膀，因为那双翅膀，是你曾经在空中飞翔过的痕迹。晚风就那么温柔的拂过发丝，夕阳就那么不舍得离开大地。</p>
+                    </div>
+                </li>
+
+                <li>
+                    <a href="{:U('Share/detail')}">
+                        <span class="item-on-hover"></span>
+                        <img src="__PUBLIC__/Home/images/share/4.jpg" alt="LOREM IPSUM DOLOR SIT AMET" />
+                    </a>
+                    <div class="blog-carousel-details">
+                        <h2><a href="{:U('Share/detail')}">正在前往多拉多——人类最大的敌人是无序</a></h2>
+                        <div class="carousel-meta">
+                            <span class="post-format"><i class="icon-quote-left"></i></span><span class="details">December 07, 2015 / <a href="#">4 评论</a></span>
+                        </div>
+                        <p>对不起，我还是无法睡着，因为我在害怕，睁开眼睛后看到的是空荡荡的枕头，谁叫我不甘心，等到无法睁开眼睛了都要等。</p>
+                    </div>
+                </li>
+            </ul>
+        </section>
+        <div class="space"></div>
+
+    </div><!--end centered-wrapper-->
+
+
+
+</block>

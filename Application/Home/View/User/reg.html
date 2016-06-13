@@ -1,0 +1,109 @@
+<extend name="simple/base"/>
+
+<block name="body">
+    <style>
+        .basicinput {
+            margin-bottom: 10px;
+            width: 60%;
+            padding: 10px 10px;
+            height: 10px;
+            line-height: 20px;
+            background: #f7f7f7;
+        }
+        .textareaba{
+        .basicinput {
+            margin-bottom: 10px;
+            width: 60%;
+            padding: 10px 10px;
+            height: 50px;
+            line-height: 20px;
+            background: #f7f7f7;
+        }
+        }
+        #cform tr{
+            height: 80px;
+        }
+        .cformtd{
+            height: 75%;
+        }
+
+    </style>
+    <section class="page-title">
+        <div class="page-background">
+            <img src="__PUBLIC__/Home/images/bg/title-bg1.jpg">
+        </div>
+        <div class="bottom-shadow"></div>
+        <div class="title-wrapper">
+            <div class="title-bg">
+                <div class="title-content">
+                    <div class="two-third">
+                        <h2>注册 SIGN UP</h2>
+                    </div>
+                    <div class="one-third column-last">
+                    </div>
+                    <div class="clear"></div>
+                </div><!--end title-content-->
+            </div>
+        </div><!--end title-wrapper-->
+    </section>
+    <div class="centered-wrapper">
+        <div style="text-align: center">
+            <div >
+                <form method="post" action="{:U('User/reg')}" name="cform" id="cform">
+                    <table style="margin: auto;width: 55%">
+                        <tr>
+                            <td style="text-align: right">
+                                <a>登录邮箱</a>
+                            </td>
+                            <td class="cformtd">
+                                <input id="name" name="email" type="text" class="basicinput" style="background: #f7f7f7;margin-bottom: 10px;">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: right">
+                                <a>昵称</a>
+                            </td>
+                            <td class="cformtd">
+                                <input name="email" id="nickname" type="text" class="basicinput" style="background: #f7f7f7;margin-bottom: 10px;">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: right">
+                                <a>登录密码</a>
+                            </td>
+                            <td class="cformtd">
+                                <input name="subject" id="password" type="password" class="basicinput" style="background: #f7f7f7;margin-bottom: 10px;" />
+
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: right">
+                                <a>重复密码</a>
+                            </td>
+                            <td class="cformtd">
+                                <input name="subject" id="repass" type="password" class="basicinput" style="background: #f7f7f7;margin-bottom: 10px;">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: right">
+                                <a>自我介绍</a>
+                            </td>
+                            <td class="cformtd">
+                                <input name="intr" id="" type="text" class="basicinput" style="background: #f7f7f7;margin-bottom: 10px;">
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td colspan="2">
+                                <input name="send" value="提交注册" id="submit" class="button red" type="submit">
+                            </td>
+                        </tr>
+                    </table>
+
+
+
+                </form>
+            </div>
+        </div>
+    </div>
+</block>

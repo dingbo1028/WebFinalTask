@@ -1,0 +1,187 @@
+<extend name="simple/base"/>
+
+<block name="body">
+
+    <section class="page-title">
+        <div class="page-background">
+            <img src="__PUBLIC__/Home/images/bg/title-bg1.jpg">
+        </div>
+        <div class="bottom-shadow"></div>
+        <div class="title-wrapper">
+            <div class="title-bg">
+                <div class="title-content">
+                    <div class="two-third">
+                        <if condition="$user eq null">
+                            <h2>我的主页 MY INDEX</h2>
+                            <else/>
+                            <h2>{$user}的主页</h2>
+                        </if>
+                    </div>
+                    <div class="one-third column-last">
+                    </div>
+                    <div class="clear"></div>
+                </div><!--end title-content-->
+            </div>
+        </div><!--end title-wrapper-->
+    </section>
+    <div class="centered-wrapper">
+        <div class="one-third">
+            <a href="__PUBLIC__/Home/images/gallery/gallery1.jpg" rel="prettyPhoto" title="Gallery 2">
+                <span style="opacity: 0;" class="item-on-hover"><span style="opacity: 0;" class="hover-image"></span></span>
+                <img src="__PUBLIC__/Home/images/gallery/gallery1-small.jpg" alt="" class="one-third">
+            </a>
+        </div>
+
+        <div class="one-third">
+            <h6>自我介绍</H6>
+            <p>我从不畏惧挑战</p>
+            <p>鸟的翅膀在空气里振动。那是一种喧嚣而凛冽的，充满了恐惧的声音。一种不确定的归宿的流动。</p>
+            <p>我大概是一只鸟。充满了警觉，不容易停留。所以一直在飞。</p>
+        </div>
+
+        <div class="one-third column-last">
+            <h6>我的爱好</H6>
+            <div id="skills">
+                <div class="row">
+                    <div class="skill">
+                        <p style="width: 90%;" data-width="90%">
+                        </p>
+                    </div>
+                    <h2>电影</h2>
+                </div>
+                <div class="row">
+                    <div class="skill">
+                        <p style="width: 60%;" data-width="60%"></p>
+                    </div>
+                    <h2>音乐</h2>
+                </div>
+                <div class="row">
+                    <div class="skill">
+                        <p style="width: 100%;" data-width="100%"></p>
+                    </div>
+                    <h2>烹饪</h2>
+                </div>
+                <div class="row">
+                    <div class="skill">
+                        <p style="width: 40%;" data-width="40%"></p>
+                    </div>
+                    <h2>旅行</h2>
+                </div>
+                <div class="row">
+                    <div class="skill">
+                        <p style="width: 10%;" data-width="10%"></p>
+                    </div>
+                    <h2>工作</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="separator"></div>
+        <div class="clear"></div>
+
+        <h6>我的相册</H6>
+        <div class="team">
+            <div class="one-fourth">
+                <div class="team-member">
+                    <a href="__PUBLIC__/Home/images/member1.jpg" rel="prettyPhoto[pp_gal]" title="帅哥不是我">
+                        <span class="item-on-hover"><span class="hover-image"></span></span>
+                        <img class="team-avatar" src="__PUBLIC__/Home/images/member1.jpg" alt=" " />
+                    </a>
+
+                </div><!--end team-member-->
+            </div><!--end one-fourth-->
+
+            <div class="one-fourth">
+                <div class="team-member">
+                    <a href="__PUBLIC__/Home/images/member2.jpg" rel="prettyPhoto[pp_gal]" title="就是这么有逼格">
+                        <span class="item-on-hover"><span class="hover-image"></span></span>
+                        <img class="team-avatar" src="__PUBLIC__/Home/images/member2.jpg" alt=" " />
+                    </a>
+
+                </div><!--end team-member-->
+            </div><!--end one-fourth-->
+
+            <div class="one-fourth">
+                <div class="team-member">
+                    <a href="__PUBLIC__/Home/images/member3.jpg" rel="prettyPhoto[pp_gal]" title="哈哈哈">
+                        <span class="item-on-hover"><span class="hover-image"></span></span>
+                        <img class="team-avatar" src="__PUBLIC__/Home/images/member3.jpg" alt=" " />
+                    </a>
+
+                </div><!--end team-member-->
+            </div><!--end one-fourth-->
+
+            <div class="one-fourth column-last">
+                <div class="team-member">
+                    <a href="__PUBLIC__/Home/images/member4.jpg" rel="prettyPhoto[pp_gal]" title="喔唷">
+                        <span class="item-on-hover"><span class="hover-image"></span></span>
+                        <img class="team-avatar" src="__PUBLIC__/Home/images/member4.jpg" alt=" " />
+                    </a>
+
+                </div><!--end team-member-->
+            </div><!--end one-fourth-->
+        </div><!--end team-->
+
+        <div class="space"></div>
+
+        <h6>我的BLOG</h6>
+        <section>
+            <ul id="homeblog-carousel">
+                <li>
+                    <a href="{:U('detail')}">
+                        <span class="item-on-hover"></span>
+                        <img src="__PUBLIC__/Home/images/blog/homeblog-thumbnail3.jpg" alt="LOREM IPSUM DOLOR SIT AMET" />
+                    </a>
+                    <div class="blog-carousel-details">
+                        <h2><a href="{:U('detail')}">编这些乱七八糟的东西真是好费脑细胞呢</a></h2>
+                        <div class="carousel-meta">
+                            <span class="post-format"><i class="icon-pencil"></i></span><span class="details">May 18, 2016 / <a href="#">3 评论</a></span>
+                        </div>
+                        <p>关于我的属于你的一切，我会慢慢忘记，就像从来没有发生过，化成泡沫，消失在湛蓝的天空;关于你的属于我的一切，我会慢慢藏匿，就像是过往的曾经笑容，化成种子，扎根在柔软的心底。</p>
+                    </div>
+                </li>
+
+                <li>
+                    <a href="{:U('detail')}">
+                        <span class="item-on-hover"></span>
+                        <img src="__PUBLIC__/Home/images/blog/homeblog-thumbnail5.jpg" alt="LOREM IPSUM DOLOR SIT AMET" />
+                    </a>
+                    <div class="blog-carousel-details">
+                        <h2><a href="{:U('detail')}">【尼泊尔】探寻内心深处的那个禅亚塔</a></h2>
+                        <div class="carousel-meta">
+                            <span class="post-format"><i class="icon-pencil"></i></span><span class="details">December 07, 2015 / <a href="#">4 评论</a></span>
+                        </div>
+                        <p>曾近一度幻想拥有翅膀，就可以肆意离开家，就可以飞到繁星之中，找到最耀眼的那颗。 </p>
+                    </div>
+                </li>
+                <li>
+                    <a href="{:U('detail')}">
+                        <span class="item-on-hover"></span>
+                        <img src="__PUBLIC__/Home/images/blog/homeblog-thumbnail1.jpg" alt="LOREM IPSUM DOLOR SIT AMET" />
+                    </a>
+                    <div class="blog-carousel-details">
+                        <h2><a href="{:U('detail')}">【直布罗陀】我们都是温斯顿</a></h2>
+                        <div class="carousel-meta">
+                            <span class="post-format"><i class="icon-facetime-video"></i></span><span class="details">May 18, 2016 / <a href="#">3 评论</a></span>
+                        </div>
+                        <p>你曾经告诉过我，谁都有一双不会飞的有意义的翅膀，因为那双翅膀，是你曾经在空中飞翔过的痕迹。晚风就那么温柔的拂过发丝，夕阳就那么不舍得离开大地。</p>
+                    </div>
+                </li>
+
+                <li>
+                    <a href="{:U('detail')}">
+                        <span class="item-on-hover"></span>
+                        <img src="__PUBLIC__/Home/images/blog/homeblog-thumbnail4.jpg" alt="LOREM IPSUM DOLOR SIT AMET" />
+                    </a>
+                    <div class="blog-carousel-details">
+                        <h2><a href="{:U('detail')}">正在前往多拉多——人类最大的敌人是无序</a></h2>
+                        <div class="carousel-meta">
+                            <span class="post-format"><i class="icon-quote-left"></i></span><span class="details">December 07, 2015 / <a href="#">4 评论</a></span>
+                        </div>
+                        <p>对不起，我还是无法睡着，因为我在害怕，睁开眼睛后看到的是空荡荡的枕头，谁叫我不甘心，等到无法睁开眼睛了都要等。</p>
+                    </div>
+                </li>
+            </ul>
+        </section>
+    </div>
+</block>

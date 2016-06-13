@@ -1,0 +1,190 @@
+<extend name="simple/base"/>
+
+<block name="body">
+
+
+    <section class="page-title">
+        <div class="page-background">
+            <div class="pattern1"></div>
+        </div>
+        <div class="bottom-shadow"></div>
+        <div class="title-wrapper">
+            <div class="title-bg">
+                <div class="title-content">
+                    <div class="two-third">
+                        <h2>生活 - LIFE</h2>
+                    </div>
+                    <div class="one-third column-last">
+                    </div>
+                    <div class="clear"></div>
+                </div><!--end title-content-->
+            </div>
+        </div><!--end title-wrapper-->
+    </section>
+
+    <div class="centered-wrapper">
+
+        <div id="masonry-blog" class="columns-two">
+
+
+
+            <div class="masonry-post regular-article">
+                <div class="masonry-thumbnail">
+                    <a href="{:U('detail')}">
+                        <span class="item-on-hover"><span class="hover-link"></span></span>
+                        <img src="__PUBLIC__/Home/images/blog/blog-image1.jpg" alt="" />
+                    </a>
+                </div>
+                <div class="masonry-page-content">
+					<span class="masonry-post-meta">
+							13 June 2016 / <a href="#">看看电影</a> / <a href="{:U('detail')}">425 评论</a>
+					</span>
+                    <i class="icon-pencil"></i>
+                    <h1 class="masonry-title"><a href="{:U('detail')}">意大利的光与暗</a></h1>
+                    <p class="masonry-excerpt">古老的文化艺术城市。城区多广场，多文艺复兴时期的艺术珍藏和建筑古迹。有圣乔瓦尼巴蒂斯塔教堂、瓦尔登西安教堂等以及豪华的宫殿。沿波河左岸多公园。设有历史、艺术博物馆。还有创立于1405年的都灵大学、多所理工科高等院校和国家约瑟夫·弗迪音乐学院，以及现代科技研究实验中心。</p>
+                    <a class="button red" href="{:U('detail')}">Read More</a>
+                </div>
+            </div>
+
+            <div class="masonry-post quote-article">
+                <div class="masonry-page-content">
+					<span class="masonry-post-meta">
+							13 June 2016 / <a href="#">人世间</a> / <a href="{:U('detail')}">775 评论</a>
+					</span>
+                    <i class="icon-quote-left"></i>
+                    <blockquote class="masonry-excerpt">Good design is all about making other designers feel like idiots because that idea wasn`t theirs.</blockquote>
+                    <h4 class="quote-author">- Frank Chimero</h4>
+                </div>
+            </div>
+
+
+            <div class="masonry-post gallery-article">
+                <div class="masonry-thumbnail">
+                    <div class="blog-slides">
+                        <div class="slides_container">
+                            <div class="slide">
+                                <a href="__PUBLIC__/Home/images/blog/image-gallery1.jpg" rel="prettyPhoto[pp_gal]" title="Gallery Image 1"><img src="__PUBLIC__/Home/images/blog/image-gallery1.jpg" width="695" height="400" alt="Slide 1"></a>
+                            </div>
+                            <div class="slide">
+                                <a href="__PUBLIC__/Home/images/blog/image-gallery2.jpg" rel="prettyPhoto[pp_gal]" title="Gallery Image 2"><img src="__PUBLIC__/Home/images/blog/image-gallery2.jpg" alt="Slide 2"></a>
+                            </div>
+                            <div class="slide">
+                                <a href="__PUBLIC__/Home/images/blog/image-gallery3.jpg" rel="prettyPhoto[pp_gal]" title="Gallery Image 3"><img src="__PUBLIC__/Home/images/blog/image-gallery3.jpg" alt="Slide 3"></a>
+                            </div>
+                        </div>
+                        <a href="#" class="prev"><img src="__PUBLIC__/Home/images/blog-arrow-prev.png" width="27" height="43" alt="Arrow Prev"></a>
+                        <a href="#" class="next"><img src="__PUBLIC__/Home/images/blog-arrow-next.png" width="27" height="43" alt="Arrow Next"></a>
+                    </div><!--end slides-->
+                </div>
+
+                <div class="masonry-page-content">
+					<span class="masonry-post-meta">
+							13 June 2016 / <a href="#">看看电影</a> / <a href="{:U('detail')}">425 评论</a>
+					</span>
+                    <i class="icon-camera-retro"></i>
+                    <h1 class="masonry-title"><a href="{:U('detail')}">如何让创造力起死回生</a></h1>
+                    <p class="masonry-excerpt">这个时代的创造力死了么？这并不是一个很好回答的问题。单读用一本书去探讨这个问题，也不能说找到了答案。在越来越便捷的现代社会，真正的思考和创作到底在哪里？</p>
+                    <a class="button red" href="{:U('detail')}">Read More</a>
+                </div>
+            </div>
+
+            <div class="masonry-post music-article">
+                <div class="masonry-page-content">
+					<span class="masonry-post-meta">
+							13 June 2016 / <a href="#">听听音乐</a> / <a href="{:U('detail')}">42 评论</a>
+					</span>
+                    <i class="icon-music"></i>
+                    <div id="audio_jplayer" class="jp-jplayer"></div>
+                    <div id="jp_container_1" class="jp-audio">
+                        <div class="jp-type-single">
+                            <div class="jp-gui jp-interface">
+                                <div class="jp-controls">
+                                    <a href="javascript:;" class="jp-play" tabindex="1">play</a>
+                                    <a href="javascript:;" class="jp-pause" tabindex="1">pause</a>
+                                    <div class="jp-current-time"></div>
+                                    <div class="jp-progress">
+                                        <div class="jp-seek-bar">
+                                            <div class="jp-play-bar"></div>
+                                        </div>
+                                    </div>
+                                    <div class="jp-volume-bar">
+                                        <div class="jp-volume-bar-value"></div>
+                                    </div>
+
+                                    <a href="javascript:;" class="jp-mute" tabindex="1" title="mute">mute</a>
+                                    <a href="javascript:;" class="jp-unmute" tabindex="1" title="unmute">unmute</a>
+                                    <div class="jp-duration"></div>
+                                </div>
+                            </div>
+                            <div class="jp-no-solution">
+                                <span>Update Required</span>
+                                To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+                            </div>
+                        </div>
+                    </div>
+
+                    <h1 class="masonry-title"><a href="{:U('detail')}">《OverWatch》原声——Nepal</a></h1>
+                </div>
+            </div>
+
+            <div class="masonry-post regular-article">
+                <div class="masonry-thumbnail">
+                    <a href="{:U('detail')}">
+                        <span class="item-on-hover"><span class="hover-link"></span></span>
+                        <img src="__PUBLIC__/Home/images/blog/young.jpg" alt="" />
+                    </a>
+                </div>
+                <div class="masonry-page-content">
+					<span class="masonry-post-meta">
+							13 June 2016 / <a href="#">人世间</a> / <a href="{:U('detail')}">425 评论</a>
+					</span>
+                    <i class="icon-pencil"></i>
+                    <h1 class="masonry-title"><a href="{:U('detail')}">你永远是一个少年</a></h1>
+                    <p class="masonry-excerpt"> 以前学校老校区的门口有几家音像店，它们有着相似的装潢但是音像店里的碟片却大同小异。有一家叫四海的音像店，给我留下了非常深的印象。</p>
+                    <p>它的前厅有各式收集起来的珍贵打口，中庭两边一面是国内摇滚与非主流的唱片，在这里你能买到一些限量的台版唱片，也能搜到李志的所有专辑，另一面是各式盗版的DVD碟片。</p>
+                    <a class="button red" href="{:U('detail')}">Read More</a>
+                </div>
+            </div>
+
+            <div class="masonry-post link-article">
+                <div class="masonry-page-content">
+					<span class="masonry-post-meta">
+							13 June 2016 / <a href="#">人物</a> / <a href="{:U('detail')}">425 评论</a>
+					</span>
+                    <i class="icon-link"></i>
+                    <h1 class="masonry-title"><a target="_blank" href="http://www.nbweekly.com/news/people/201512/39479.aspx">苏新平：艺术家都是快活不下去的人</a></h1>
+                </div>
+            </div>
+
+            <div class="masonry-post regular-article">
+                <div class="masonry-thumbnail">
+                    <a href="{:U('detail')}">
+                        <span class="item-on-hover"><span class="hover-link"></span></span>
+                        <img src="__PUBLIC__/Home/images/blog/jazz.jpg" alt="" />
+                    </a>
+                </div>
+                <div class="masonry-page-content">
+					<span class="masonry-post-meta">
+							13 June 2016 / <a href="#">大家说</a> / <a href="{:U('detail')}">425 评论</a>
+					</span>
+                    <i class="icon-pencil"></i>
+                    <h1 class="masonry-title"><a href="{:U('detail')}">语言尚未发明前的音乐是什么模样？</a></h1>
+                    <p class="masonry-excerpt">1950年代的尾声，Sonny Rollins发行了《萨克斯风巨人》（Saxophone Colossus）、《西方之路》（Way Out West）及《前锋村俱乐部之夜》（A Night at the Village Vanguard, Vol. 1&2）这些威震爵士史上的经典巨作后，他决定退隐江湖一阵子，那段时间时常带着乐器，独自于纽约的威廉斯堡大桥上吹奏，并思考如何在创作上有所突破……</p>
+                    <a class="button red" href="{:U('detail')}">Read More</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="clear"></div>
+`
+        <div class="pagenav">
+            <span class="pages">Page 1 of 3</span>
+            <span class="current">1</span>
+            <a href="#" class="page">2</a>
+            <a href="#" class="page">3</a>
+            <a href="#" class="nextpostslink">&raquo;</a>
+        </div>
+
+    </div><!--end centered-wrapper-->
+
+</block>

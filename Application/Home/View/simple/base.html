@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lifestyle—创造专属于你的生活方式</title>
+    <include file="./Application/Home/View/public/head.html"/>
+</head>
+<body id="body">
+<if condition="CONTROLLER_NAME eq 'Index'">
+    <script>
+        document.getElementById('body').className='home';
+    </script>
+</if>
+
+<div id="wrapper">
+    <include file="./Application/Home/View/public/header.html"/>
+    <block name="body">
+    </block>
+    <include file="./Application/Home/View/public/footer.html"/>
+</div>
+<div id="menu" style="position: fixed; bottom: 2%;right: 2%; z-index: 999;">
+    <include file="./Application/Home/View/public/menu.html"/>
+</div>
+</body>
+</html>

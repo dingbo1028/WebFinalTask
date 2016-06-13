@@ -1,0 +1,92 @@
+<extend name="simple/base"/>
+
+<block name="body">
+
+    <section class="page-title">
+        <div class="page-background">
+            <img src="__PUBLIC__/Home/images/bg/title-bg1.jpg">
+        </div>
+        <div class="bottom-shadow"></div>
+        <div class="title-wrapper">
+            <div class="title-bg">
+                <div class="title-content">
+                    <div class="two-third">
+                        <if condition="$user eq null">
+                            <h2>我的相册 MY GALLERY</h2>
+                            <else/>
+                            <h2>{$user}的相册</h2>
+                        </if>
+
+                    </div>
+                    <div class="one-third column-last">
+                    </div>
+                    <div class="clear"></div>
+                </div><!--end title-content-->
+            </div>
+        </div><!--end title-wrapper-->
+    </section>
+    <div class="centered-wrapper">
+        <ul class="gallery-page">
+            <li>
+                <a href="__PUBLIC__/Home/images/gallery/gallery5.jpg" rel="prettyPhoto[pp_gal]" title="Gallery 1">
+                    <span class="item-on-hover"><span class="hover-image"></span></span>
+                    <img src="__PUBLIC__/Home/images/gallery/gallery5-small.jpg" alt=" " />
+                </a>
+            </li>
+            <li>
+                <a href="__PUBLIC__/Home/images/gallery/gallery1.jpg" rel="prettyPhoto[pp_gal]" title="Gallery 2">
+                    <span class="item-on-hover"><span class="hover-image"></span></span>
+                    <img src="__PUBLIC__/Home/images/gallery/gallery1-small.jpg" alt=" " />
+                </a>
+            </li>
+            <li>
+                <a href="__PUBLIC__/Home/images/gallery/gallery9.jpg" rel="prettyPhoto[pp_gal]" title="Gallery 3">
+                    <span class="item-on-hover"><span class="hover-image"></span></span>
+                    <img src="__PUBLIC__/Home/images/gallery/gallery9-small.jpg" alt=" " />
+                </a>
+            </li>
+            <li>
+                <a href="__PUBLIC__/Home/images/gallery/gallery2.jpg" rel="prettyPhoto[pp_gal]" title="Gallery 4">
+                    <span class="item-on-hover"><span class="hover-image"></span></span>
+                    <img src="__PUBLIC__/Home/images/gallery/gallery2-small.jpg" alt=" " />
+                </a>
+            </li>
+            <li>
+                <a href="__PUBLIC__/Home/images/gallery/gallery3.jpg" rel="prettyPhoto[pp_gal]" title="Gallery 5">
+                    <span class="item-on-hover"><span class="hover-image"></span></span>
+                    <img src="__PUBLIC__/Home/images/gallery/gallery3-small.jpg" alt=" " />
+                </a>
+            </li>
+            <li>
+                <a href="__PUBLIC__/Home/images/gallery/gallery4.jpg" rel="prettyPhoto[pp_gal]" title="Gallery 6">
+                    <span class="item-on-hover"><span class="hover-image"></span></span>
+                    <img src="__PUBLIC__/Home/images/gallery/gallery4-small.jpg" alt=" " />
+                </a>
+            </li>
+            <li>
+                <a href="__PUBLIC__/Home/images/gallery/gallery7.jpg" rel="prettyPhoto[pp_gal]" title="Gallery 7">
+                    <span class="item-on-hover"><span class="hover-image"></span></span>
+                    <img src="__PUBLIC__/Home/images/gallery/gallery7-small.jpg" alt=" " />
+                </a>
+            </li>
+            <li>
+                <a href="__PUBLIC__/Home/images/gallery/gallery8.jpg" rel="prettyPhoto[pp_gal]" title="Gallery 8">
+                    <span class="item-on-hover"><span class="hover-image"></span></span>
+                    <img src="__PUBLIC__/Home/images/gallery/gallery8-small.jpg" alt=" " />
+                </a>
+            </li>
+            <li>
+                <a href="__PUBLIC__/Home/images/gallery/gallery6.jpg" rel="prettyPhoto[pp_gal]" title="Gallery 9">
+                    <span class="item-on-hover"><span class="hover-image"></span></span>
+                    <img src="__PUBLIC__/Home/images/gallery/gallery6-small.jpg" alt=" " />
+                </a>
+            </li>
+            <li>
+                <a href="__PUBLIC__/Home/images/gallery/gallery10.jpg" rel="prettyPhoto[pp_gal]" title="Gallery 10">
+                    <span class="item-on-hover"><span class="hover-image"></span></span>
+                    <img src="__PUBLIC__/Home/images/gallery/gallery10-small.jpg" alt=" " />
+                </a>
+            </li>
+        </ul><!--end gallery-page-->
+    </div>
+</block>
