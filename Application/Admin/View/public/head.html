@@ -1,0 +1,42 @@
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>后台管理系统 | Lifestyle</title>
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/Admin/css/reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/Admin/css/text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/Admin/css/grid.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/Admin/css/layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/Admin/css/nav.css" media="screen" />
+
+<!-- BEGIN: load jquery -->
+<script src="__PUBLIC__/Admin/js/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="__PUBLIC__/Admin/js/jquery-ui/jquery.ui.core.min.js"></script>
+<script src="__PUBLIC__/Admin/js/jquery-ui/jquery.ui.widget.min.js" type="text/javascript"></script>
+<script src="__PUBLIC__/Admin/js/jquery-ui/jquery.ui.accordion.min.js" type="text/javascript"></script>
+<script src="__PUBLIC__/Admin/js/jquery-ui/jquery.effects.core.min.js" type="text/javascript"></script>
+<script src="__PUBLIC__/Admin/js/jquery-ui/jquery.effects.slide.min.js" type="text/javascript"></script>
+<!-- END: load jquery -->
+<!-- BEGIN: load jqplot -->
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/Admin/css/jquery.jqplot.min.css" />
+<!--[if lt IE 9]><script language="javascript" type="text/javascript" src="__PUBLIC__/Admin/js/jqPlot/excanvas.min.js"></script><![endif]-->
+<script language="javascript" type="text/javascript" src="__PUBLIC__/Admin/js/jqPlot/jquery.jqplot.min.js"></script>
+<script language="javascript" type="text/javascript" src="__PUBLIC__/Admin/js/jqPlot/plugins/jqplot.barRenderer.min.js"></script>
+<script language="javascript" type="text/javascript" src="__PUBLIC__/Admin/js/jqPlot/plugins/jqplot.pieRenderer.min.js"></script>
+<script language="javascript" type="text/javascript" src="__PUBLIC__/Admin/js/jqPlot/plugins/jqplot.categoryAxisRenderer.min.js"></script>
+<script language="javascript" type="text/javascript" src="__PUBLIC__/Admin/js/jqPlot/plugins/jqplot.highlighter.min.js"></script>
+<script language="javascript" type="text/javascript" src="__PUBLIC__/Admin/js/jqPlot/plugins/jqplot.pointLabels.min.js"></script>
+<!-- END: load jqplot -->
+<script src="__PUBLIC__/Admin/js/popup/jquery.facebox.js" type="text/javascript"></script>
+<script src="__PUBLIC__/Admin/js/quick-sand/jquery.quicksand.js" type="text/javascript"></script>
+
+
+
+<script src="__PUBLIC__/Admin/js/setup.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        setupDashboardChart('chart1');
+        setupLeftMenu();
+        setSidebarHeight();
+
+
+    });
+</script>

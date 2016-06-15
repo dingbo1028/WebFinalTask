@@ -247,10 +247,11 @@
             </div><!--end percent-one-half-->
             <div class="one-half column-last">
                 <div class="percent-one-half">
-                    <h3>我们在社交</h3>
+                    <h3>我们在互联网</h3>
                     <ul>
-                    <li>新浪 <a href="http://weibo.com/u/5255370930">幸福对我说要啥自行车</a></li>
-                    <li>微信 <a href="">Lifestyle </a></li>
+                    <li>新浪微博 <a href="http://weibo.com/u/5255370930">幸福对我说要啥自行车</a></li>
+                        <li>源码公开 <a href="<?php echo U('De/source');?>">从Github上获取源码 </a></li>
+                        <li>设计说明 <a href="<?php echo U('De/index');?>">点这里查看设计资料 </a></li>
                     </ul>
                 </div>
 

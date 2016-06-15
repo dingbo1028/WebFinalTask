@@ -1,0 +1,76 @@
+<div class="grid_12 header-repeat">
+    <div id="branding">
+        <div class="floatleft">
+            <img src="__PUBLIC__/Admin/img/logo_g_s.png" alt="Logo" />
+            <a style="font-size: 30px;">后台管理系统</a>
+        </div>
+        <div class="floatright">
+            <div class="floatleft">
+                <img src="__PUBLIC__/Admin/img/img-profile.jpg" alt="Profile Pic" /></div>
+            <div class="floatleft marginleft10">
+                <ul class="inline-ul floatleft">
+                    <li>欢迎你： 丁波</li>
+                    <li><a href="{:U('pass')}">帐号设置</a></li>
+                    <li><a href="{:U('logout')}">退出登录</a></li>
+                </ul>
+                <br />
+                <span class="small grey">上次登录: 3 小时之前</span>
+            </div>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+</div>
+<div class="clear">
+</div>
+<div class="grid_12">
+    <ul class="nav main">
+        <li class="ic-dashboard"><a href="{:U('index')}"><span>站点概述</span></a> </li>
+        <li class="ic-form-style"><a href="javascript:"><span>文章管理</span></a>
+            <ul>
+                <li><a href="{:U('doclist')}">文章列表</a> </li>
+                <li><a href="#">垃圾箱</a> </li>
+            </ul>
+        </li>
+
+        <li class="ic-charts"><a href="javascript:"><span>会员管理</span></a>
+            <ul>
+                <li><a href="{:U('userlist')}">会员列表</a> </li>
+                <li><a href="#">封禁信息</a> </li>
+                <li><a href="#">实名审核</a> </li>
+            </ul>
+        </li>
+        <li class="ic-grid-tables"><a href="#"><span>数据中心</span></a></li>
+        <li class="ic-gallery dd"><a href="{:U('imagelist')}"><span>图片中心</span></a></li>
+        <li class="ic-notifications"><a href="#"><span>站点信息</span></a></li>
+
+    </ul>
+</div>
+<div class="clear">
+</div>
+<div class="grid_2">
+    <div class="box sidemenu">
+        <div class="block" id="section-menu">
+            <ul class="section menu">
+                <li><a class="menuitem">快捷操作</a>
+                    <ul class="submenu">
+                        <li><a href="{:U('doclist')}">文章列表</a> </li>
+                        <li><a href="{:U('newdoc')}">添加文章</a> </li>
+                        <li><a href="{:U('userlist')}">会员列表</a> </li>
+                        <li><a href="{:U('imagelist')}">图片管理</a> </li>
+                        <li><a href="{:U('typelist')}">栏目管理</a> </li>
+                    </ul>
+                </li>
+                <li><a class="menuitem">系统设置</a>
+                    <ul class="submenu">
+                        <li><a href="{:U('set')}">站点设置</a> </li>
+                        <li><a href="{:U('pass')}">帐号设置</a> </li>
+                        <li><a>管理员设置</a> </li>
+                        <li><a>权限管理</a> </li>
+                    </ul>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</div>
